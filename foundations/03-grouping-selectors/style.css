@@ -1,0 +1,16 @@
+.style-one, 
+.style-two {
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+    font-size: 28px;
+
+}
+
+
+.style-one {
+    background-color: black;
+    color : #ffffff;
+}
+
+.style-two {
+    background-color: #ffff00;
+}
